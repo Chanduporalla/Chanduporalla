@@ -9,4 +9,4 @@ Hi there 👋
     😄 Pronouns: he/him
     ⚡ Fun fact: JavaScript is everywhere! 🌐
 
-                ![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/d3763a66-145c-4765-bc99-be7cda14a802)
+![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/d3763a66-145c-4765-bc99-be7cda14a802)
