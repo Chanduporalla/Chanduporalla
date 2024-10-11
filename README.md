@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Chanduporalla/Chanduporalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🔭 I’m currently working on an app for self-development
+    🌱 I’m currently learning Golang
+    👯 I’m looking to collaborate on startup ideas
+    🤔 I’m looking for help with DSA
+    💬 Ask me about Java, Spring Boot, React, MySQL, Vue, Linux, AWS, Networking
+    📫 How to reach me: porallachandu@gmail.com
+    😄 Pronouns: he/him
+    ⚡ Fun fact: JavaScript is everywhere! 🌐
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/d3763a66-145c-4765-bc99-be7cda14a802)
