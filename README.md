@@ -1,7 +1,83 @@
-# 💫 About Me:
-About Me 🚀<br><br>👋 Hi, I'm Poralla Chandu, a passionate Java Full Stack Developer and React.js Enthusiast with a strong foundation in DSA, Java, Spring Boot, and UI/UX design. Currently pursuing my B.Tech in Computer Science & Engineering at JNTUACEK, I focus on building scalable and efficient web applications.<br>💡 What I Do:<br><br>🔹 Frontend Development: React.js, Tailwind CSS, Next.js<br>🔹 Backend Development: Java, Spring Boot, REST APIs, Microservices<br>🔹 Databases: MySQL, MongoDB, PostgreSQL<br>🔹 Coding & DSA: Problem-solving in Java<br>🌱 Currently Learning:<br><br>🔹 Advanced Spring Boot & Microservices<br>🔹 System Design & Scalable Architectures<br>📫 Connect With Me: <br>
+💫 Poralla Chandu
+Cyber Security • Networking • Cloud • Java Full Stack
+👨‍💻 About Me
 
+Hi, I'm Poralla Chandu, a Cyber Security and Cloud-focused Developer with a strong foundation in Java Full Stack Engineering.
 
+I build secure, scalable, and performance-driven systems by combining backend architecture, frontend engineering, and networking principles. My approach blends software development with infrastructure awareness — ensuring applications are not only functional, but secure and production-ready.
+
+I have developed solid full-stack and mobile-ready applications, with strong experience in backend systems, API design, and database optimization.
+
+⚡ Core Expertise
+🔐 Security & Networking
+
+Network Fundamentals
+
+Secure Architecture Design
+
+Traffic Analysis & Troubleshooting
+
+Infrastructure-Level Thinking
+
+☁️ Backend & Cloud Engineering
+
+Java
+
+Spring Boot
+
+REST APIs
+
+Microservices Architecture
+
+Scalable System Design
+
+🎨 Frontend & Application Development
+
+React.js
+
+Next.js
+
+Tailwind CSS
+
+Responsive & Modern UI Systems
+
+🗄️ Database Engineering
+
+MySQL
+
+PostgreSQL
+
+MongoDB
+
+Schema Design & Query Optimization
+
+💻 Programming Strength
+
+Data Structures & Algorithms (Java)
+
+Clean Code Practices
+
+Performance Optimization
+
+🎯 Current Focus
+
+Advanced Network Security
+
+Cloud-Native & Distributed Systems
+
+Secure System Design
+
+High-Performance Backend Architectures
+
+🧠 Development Philosophy
+
+Security-First Mindset
+
+Scalable & Maintainable Architecture
+
+Real-World Problem Solving
+
+Continuous Learning & Growth
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/porallachandu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandu-p-99b211304/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/porallachandu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:porallachandu@gmail.com) 
 
