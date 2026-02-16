@@ -5,10 +5,10 @@
 Cyber Security & Cloud-focused Developer with strong expertise in Java Full Stack Engineering.
 I build secure, scalable, and production-ready systems by combining backend architecture, frontend engineering, and infrastructure-level thinking.
 
-Experienced in delivering solid full-stack & mobile-ready applications with strong database design, API architecture, and performance optimization.
+Experienced in delivering full-stack & mobile-ready applications with strong database architecture, API design, and performance optimization.
 
 ⚡ Technical Expertise
-<table> <tr> <td width="50%">
+<table> <tr> <td>
 🔐 Security & Networking
 
 🌐 Network Fundamentals
@@ -19,7 +19,7 @@ Experienced in delivering solid full-stack & mobile-ready applications with stro
 
 🧰 Troubleshooting
 
-</td> <td width="50%">
+</td> <td>
 ☁️ Backend & Cloud
 
 ☕ Java
@@ -30,8 +30,8 @@ Experienced in delivering solid full-stack & mobile-ready applications with stro
 
 🏗️ Microservices
 
-</td> </tr> <tr> <td width="50%">
-🎨 Frontend & Apps
+</td> </tr> <tr> <td>
+🎨 Frontend & Applications
 
 ⚛️ React.js
 
@@ -41,7 +41,7 @@ Experienced in delivering solid full-stack & mobile-ready applications with stro
 
 📱 Responsive UI
 
-</td> <td width="50%">
+</td> <td>
 🗄️ Databases
 
 🐬 MySQL
@@ -56,16 +56,22 @@ Experienced in delivering solid full-stack & mobile-ready applications with stro
 🎯 Current Focus
 
 🔎 Advanced Network Security
+
 ☁️ Cloud-Native Architectures
-🏗️ Scalable Distributed Systems
+
+🏗️ Distributed Systems
+
 🛡️ Secure-by-Design Development
 
 🧠 Philosophy
 
 ✔ Security First
+
 ✔ Clean & Maintainable Code
-✔ Scalable System Thinking
-✔ Continuous Learning
+
+✔ Scalable Thinking
+
+✔ Continuous Growth
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/porallachandu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandu-p-99b211304/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/porallachandu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:porallachandu@gmail.com) 
