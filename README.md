@@ -1,77 +1,12 @@
-💫 Poralla Chandu
-🔐 Cyber Security | 🌐 Networking | ☁️ Cloud | 💻 Java Full Stack
-👨‍💻 About Me
+💫 About Me
 
-Cyber Security & Cloud-focused Developer with strong expertise in Java Full Stack Engineering.
-I build secure, scalable, and production-ready systems by combining backend architecture, frontend engineering, and infrastructure-level thinking.
+🚀 Cyber Security • 🌐 Networking • ☁️ Cloud • 💻 Java Full Stack
 
-Experienced in delivering full-stack & mobile-ready applications with strong database architecture, API design, and performance optimization.
+I am Poralla Chandu, a Cyber Security and Cloud-focused Software Engineer specializing in building 🔐 secure, scalable, and distributed applications using ☕ Java, 🚀 Spring Boot, and 🔗 RESTful architectures. My work focuses on designing high-performance backend systems, API-driven services, and microservices-based applications integrated with modern frontend technologies such as ⚛️ React.js, ▲ Next.js, and 🎨 Tailwind CSS to deliver responsive and production-grade solutions.
 
-⚡ Technical Expertise
-<table> <tr> <td>
-🔐 Security & Networking
+I have hands-on experience in architecting cloud-ready systems ☁️, implementing modular service layers, and optimizing data persistence using 🐬 MySQL, 🐘 PostgreSQL, and 🍃 MongoDB with emphasis on schema design, query optimization, and performance efficiency. Alongside application development, I apply 🌐 networking fundamentals, 📡 traffic analysis, and 🛡️ security-oriented design principles to build infrastructure-aware systems with reliability, scalability, and fault tolerance in mind.
 
-🌐 Network Fundamentals
-
-🛡️ Secure Architecture
-
-📡 Traffic Analysis
-
-🧰 Troubleshooting
-
-</td> <td>
-☁️ Backend & Cloud
-
-☕ Java
-
-🚀 Spring Boot
-
-🔗 REST APIs
-
-🏗️ Microservices
-
-</td> </tr> <tr> <td>
-🎨 Frontend & Applications
-
-⚛️ React.js
-
-▲ Next.js
-
-🎯 Tailwind CSS
-
-📱 Responsive UI
-
-</td> <td>
-🗄️ Databases
-
-🐬 MySQL
-
-🐘 PostgreSQL
-
-🍃 MongoDB
-
-⚡ Query Optimization
-
-</td> </tr> </table>
-🎯 Current Focus
-
-🔎 Advanced Network Security
-
-☁️ Cloud-Native Architectures
-
-🏗️ Distributed Systems
-
-🛡️ Secure-by-Design Development
-
-🧠 Philosophy
-
-✔ Security First
-
-✔ Clean & Maintainable Code
-
-✔ Scalable Thinking
-
-✔ Continuous Growth
+My current focus includes advanced network security, distributed system design, cloud-native architectures, and performance optimization, with a strong commitment to clean architecture, maintainable codebases, and real-world engineering practices.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/porallachandu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandu-p-99b211304/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/porallachandu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:porallachandu@gmail.com) 
