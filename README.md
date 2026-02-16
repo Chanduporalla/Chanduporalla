@@ -1,83 +1,72 @@
 💫 Poralla Chandu
-Cyber Security • Networking • Cloud • Java Full Stack
+🔐 Cyber Security | 🌐 Networking | ☁️ Cloud | 💻 Java Full Stack
 👨‍💻 About Me
 
-Hi, I'm Poralla Chandu, a Cyber Security and Cloud-focused Developer with a strong foundation in Java Full Stack Engineering.
+Cyber Security & Cloud-focused Developer with strong expertise in Java Full Stack Engineering.
+I build secure, scalable, and production-ready systems by combining backend architecture, frontend engineering, and infrastructure-level thinking.
 
-I build secure, scalable, and performance-driven systems by combining backend architecture, frontend engineering, and networking principles. My approach blends software development with infrastructure awareness — ensuring applications are not only functional, but secure and production-ready.
+Experienced in delivering solid full-stack & mobile-ready applications with strong database design, API architecture, and performance optimization.
 
-I have developed solid full-stack and mobile-ready applications, with strong experience in backend systems, API design, and database optimization.
-
-⚡ Core Expertise
+⚡ Technical Expertise
+<table> <tr> <td width="50%">
 🔐 Security & Networking
 
-Network Fundamentals
+🌐 Network Fundamentals
 
-Secure Architecture Design
+🛡️ Secure Architecture
 
-Traffic Analysis & Troubleshooting
+📡 Traffic Analysis
 
-Infrastructure-Level Thinking
+🧰 Troubleshooting
 
-☁️ Backend & Cloud Engineering
+</td> <td width="50%">
+☁️ Backend & Cloud
 
-Java
+☕ Java
 
-Spring Boot
+🚀 Spring Boot
 
-REST APIs
+🔗 REST APIs
 
-Microservices Architecture
+🏗️ Microservices
 
-Scalable System Design
+</td> </tr> <tr> <td width="50%">
+🎨 Frontend & Apps
 
-🎨 Frontend & Application Development
+⚛️ React.js
 
-React.js
+▲ Next.js
 
-Next.js
+🎯 Tailwind CSS
 
-Tailwind CSS
+📱 Responsive UI
 
-Responsive & Modern UI Systems
+</td> <td width="50%">
+🗄️ Databases
 
-🗄️ Database Engineering
+🐬 MySQL
 
-MySQL
+🐘 PostgreSQL
 
-PostgreSQL
+🍃 MongoDB
 
-MongoDB
+⚡ Query Optimization
 
-Schema Design & Query Optimization
-
-💻 Programming Strength
-
-Data Structures & Algorithms (Java)
-
-Clean Code Practices
-
-Performance Optimization
-
+</td> </tr> </table>
 🎯 Current Focus
 
-Advanced Network Security
+🔎 Advanced Network Security
+☁️ Cloud-Native Architectures
+🏗️ Scalable Distributed Systems
+🛡️ Secure-by-Design Development
 
-Cloud-Native & Distributed Systems
+🧠 Philosophy
 
-Secure System Design
+✔ Security First
+✔ Clean & Maintainable Code
+✔ Scalable System Thinking
+✔ Continuous Learning
 
-High-Performance Backend Architectures
-
-🧠 Development Philosophy
-
-Security-First Mindset
-
-Scalable & Maintainable Architecture
-
-Real-World Problem Solving
-
-Continuous Learning & Growth
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/porallachandu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandu-p-99b211304/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/porallachandu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:porallachandu@gmail.com) 
 
