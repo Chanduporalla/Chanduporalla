@@ -1,5 +1,23 @@
-# 💫 About Me:
-About Me 🚀<br><br>👋 Hi, I'm Poralla Chandu, a passionate Java Full Stack Developer and React.js Enthusiast with a strong foundation in DSA, Java, Spring Boot, and UI/UX design. Currently pursuing my B.Tech in Computer Science & Engineering at JNTUACEK, I focus on building scalable and efficient web applications.<br>💡 What I Do:<br><br>🔹 Frontend Development: React.js, Tailwind CSS, Next.js<br>🔹 Backend Development: Java, Spring Boot, REST APIs, Microservices<br>🔹 Databases: MySQL, MongoDB, PostgreSQL<br>🔹 Coding & DSA: Problem-solving in Java<br>🌱 Currently Learning:<br><br>🔹 Advanced Spring Boot & Microservices<br>🔹 System Design & Scalable Architectures<br>📫 Connect With Me:<br>
+## About Me 🚀
+
+👋 Hi, I'm **Poralla Chandu**, a passionate **Network Engineer & Cyber Security Enthusiast** with a strong foundation in **Computer Networking, Network Security, System Administration, and IT Infrastructure**. Currently pursuing my **B.Tech in Computer Science & Engineering at JNTUACEK**, I focus on building secure, scalable, and efficient network environments while continuously improving my cybersecurity and troubleshooting skills.
+
+💡 **What I Do:**
+
+🔹 **Networking:** CCNA, Routing & Switching, VLANs, Subnetting, DHCP, DNS, TCP/IP
+🔹 **Cyber Security:** Network Security, Firewall Basics, Threat Detection, Security Fundamentals
+🔹 **System & Cloud:** Linux Basics, Windows Server, Cloud & Infrastructure Concepts
+🔹 **Technical Skills:** Troubleshooting, Network Monitoring, IT Support, Security Best Practices
+
+🌱 **Currently Learning:**
+
+🔹 Advanced Networking & Enterprise Security
+🔹 Ethical Hacking & Security Operations
+🔹 Cloud Networking & Infrastructure Security
+🔹 Network Automation & Scalable Architectures
+
+📫 **Connect With Me:**
+Always open to networking, collaborations, internships, and opportunities in Networking & Cyber Security 🚀
 
 
 ## 🌐 Socials:
