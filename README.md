@@ -1,23 +1,24 @@
 ## About Me 🚀
 
-👋 Hi, I'm **Poralla Chandu**, a passionate **Network Engineer & Cyber Security Enthusiast** with a strong foundation in **Computer Networking, Network Security, System Administration, and IT Infrastructure**. Currently pursuing my **B.Tech in Computer Science & Engineering at JNTUACEK**, I focus on building secure, scalable, and efficient network environments while continuously improving my cybersecurity and troubleshooting skills.
+👋 Hi, I'm **Poralla Chandu**, a Network & Infrastructure Professional passionate about **Cybersecurity, Technology, Entrepreneurship, and Innovation**. With a foundation in Computer Science Engineering and hands-on experience in the networking domain, I focus on understanding how secure infrastructure, emerging technologies, and innovative ideas can create real-world impact.
 
 💡 **What I Do:**
 
-🔹 **Networking:** CCNA, Routing & Switching, VLANs, Subnetting, DHCP, DNS, TCP/IP
-🔹 **Cyber Security:** Network Security, Firewall Basics, Threat Detection, Security Fundamentals
-🔹 **System & Cloud:** Linux Basics, Windows Server, Cloud & Infrastructure Concepts
-🔹 **Technical Skills:** Troubleshooting, Network Monitoring, IT Support, Security Best Practices
+🔹 **Networking & Infrastructure:** CCNA, Routing & Switching, Enterprise Networks, Network Troubleshooting  
+🔹 **Cybersecurity:** Network Security, Threat Mitigation, Security Fundamentals, Infrastructure Protection  
+🔹 **Technology & Cloud:** Linux, Cloud Networking, IT Infrastructure, Secure System Architecture  
+🔹 **Entrepreneurship:** Startup Ecosystems, Business Innovation, Problem-Solving, Technology-Driven Ideas  
 
-🌱 **Currently Learning:**
+🌱 **Currently Exploring:**
 
-🔹 Advanced Networking & Enterprise Security
-🔹 Ethical Hacking & Security Operations
-🔹 Cloud Networking & Infrastructure Security
-🔹 Network Automation & Scalable Architectures
+🔹 Advanced Cybersecurity & Enterprise Security  
+🔹 Ethical Hacking, Threat Detection & Security Operations  
+🔹 Startups, Business Strategy & Entrepreneurial Thinking  
+🔹 Leadership, Personal Development, Mentorship & Innovation  
 
 📫 **Connect With Me:**
-Always open to networking, collaborations, internships, and opportunities in Networking & Cyber Security 🚀
+
+Always open to connecting with technology professionals, cybersecurity enthusiasts, entrepreneurs, startup founders, and innovative thinkers to exchange ideas, explore collaborations, and create meaningful opportunities. 🚀
 
 
 ## 🌐 Socials:
